@@ -1,0 +1,10 @@
+.choice {
+  height: 400px;
+  width: 400px;
+  cursor: pointer;
+}
+
+body {
+  background-color: cyan;
+
+}
